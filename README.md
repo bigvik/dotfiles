@@ -1,4 +1,5 @@
 dotfiles
 ========
 
-My configs
+My configs:
+  .bashrc
