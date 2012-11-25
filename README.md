@@ -2,4 +2,4 @@ dotfiles
 ========
 
 My configs:
-*.bashrc
+* .bashrc
