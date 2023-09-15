@@ -2,4 +2,5 @@ dotfiles
 ========
 
 My configs:
-* .bashrc
+* .vimrc
+* .zshrc
